@@ -76,6 +76,15 @@ var o = ns;
 
 <div class="namespace-toc">
 
+-   <span class="signature">[`cffti( N, workspace, strideW, offsetW )`][@stdlib/fft/base/fftpack/generic/cffti]</span><span class="delimiter">: </span><span class="description">initialize a workspace array for performing a complex-valued Fourier transform.</span>
+-   <span class="signature">[`cosqi( N, workspace, strideW, offsetW )`][@stdlib/fft/base/fftpack/generic/cosqi]</span><span class="delimiter">: </span><span class="description">initialize a workspace array for performing a quarter-wave cosine transform.</span>
+-   <span class="signature">[`costi( N, workspace, strideW, offsetW )`][@stdlib/fft/base/fftpack/generic/costi]</span><span class="delimiter">: </span><span class="description">initialize a workspace array for performing a cosine transform.</span>
+-   <span class="signature">[`decompose( N, M, initial, si, oi, out, so, oo )`][@stdlib/fft/base/fftpack/generic/decompose]</span><span class="delimiter">: </span><span class="description">factorize a sequence length into a product of integers.</span>
+-   <span class="signature">[`rfftf( N, r, strideR, offsetR, w, strideW, offsetW )`][@stdlib/fft/base/fftpack/generic/rfftf]</span><span class="delimiter">: </span><span class="description">compute the forward discrete Fourier transform (DFT) of a real-valued sequence.</span>
+-   <span class="signature">[`rffti( N, workspace, strideW, offsetW )`][@stdlib/fft/base/fftpack/generic/rffti]</span><span class="delimiter">: </span><span class="description">initialize a workspace array for performing a real-valued Fourier transform.</span>
+-   <span class="signature">[`sinqi( N, workspace, strideW, offsetW )`][@stdlib/fft/base/fftpack/generic/sinqi]</span><span class="delimiter">: </span><span class="description">initialize a workspace array for performing a quarter-wave sine transform.</span>
+-   <span class="signature">[`sinti( N, workspace, strideW, offsetW )`][@stdlib/fft/base/fftpack/generic/sinti]</span><span class="delimiter">: </span><span class="description">initialize a workspace array for performing a sine transform.</span>
+
 </div>
 
 <!-- </toc> -->
@@ -184,6 +193,22 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/fft-base-fftpack-generic/main/LICENSE
 
 <!-- <toc-links> -->
+
+[@stdlib/fft/base/fftpack/generic/cffti]: https://github.com/stdlib-js/fft-base-fftpack-generic-cffti
+
+[@stdlib/fft/base/fftpack/generic/cosqi]: https://github.com/stdlib-js/fft-base-fftpack-generic-cosqi
+
+[@stdlib/fft/base/fftpack/generic/costi]: https://github.com/stdlib-js/fft-base-fftpack-generic-costi
+
+[@stdlib/fft/base/fftpack/generic/decompose]: https://github.com/stdlib-js/fft-base-fftpack-generic-decompose
+
+[@stdlib/fft/base/fftpack/generic/rfftf]: https://github.com/stdlib-js/fft-base-fftpack-generic-rfftf
+
+[@stdlib/fft/base/fftpack/generic/rffti]: https://github.com/stdlib-js/fft-base-fftpack-generic-rffti
+
+[@stdlib/fft/base/fftpack/generic/sinqi]: https://github.com/stdlib-js/fft-base-fftpack-generic-sinqi
+
+[@stdlib/fft/base/fftpack/generic/sinti]: https://github.com/stdlib-js/fft-base-fftpack-generic-sinti
 
 <!-- </toc-links> -->
 

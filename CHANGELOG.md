@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-19)
+## Unreleased (2026-08-20)
 
 <section class="features">
 
@@ -31,6 +31,7 @@
 
 <details>
 
+-   [`f66e808`](https://github.com/stdlib-js/stdlib/commit/f66e808da3dc0cbdd927bfeacf62f06873ec3633) - **docs:** update namespace table of contents [(#14431)](https://github.com/stdlib-js/stdlib/pull/14431) _(by stdlib-bot)_
 -   [`b835466`](https://github.com/stdlib-js/stdlib/commit/b8354666d8716077979d945e6d12c752bdcb280e) - **feat:** add `rfftf` to namespace _(by Athan Reines)_
 -   [`f44d6b4`](https://github.com/stdlib-js/stdlib/commit/f44d6b4a054bd08f9022b6a00f910570f04f6405) - **feat:** add `fft/base/fftpack/generic` namespace _(by Athan Reines)_
 -   [`5a1fd30`](https://github.com/stdlib-js/stdlib/commit/5a1fd309d570433edb8b0957f0946bb736cdadf2) - **feat:** add `fft/base/fftpack/generic/rfftf` _(by Gunj Joshi)_
