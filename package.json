@@ -47,6 +47,7 @@
     "@stdlib/utils-define-read-only-property": "^0.2.3"
   },
   "devDependencies": {
+    "@stdlib/array-complex128": "^0.3.2",
     "@stdlib/array-float64": "^0.2.3",
     "@stdlib/array-slice": "^0.2.3",
     "@stdlib/array-zero-to": "^0.2.3",
@@ -58,6 +59,7 @@
     "@stdlib/constants-float64-pi": "^0.2.3",
     "@stdlib/constants-float64-sqrt-half": "^0.2.3",
     "@stdlib/constants-float64-two-pi": "^0.2.3",
+    "@stdlib/math-base-assert-is-even": "^0.2.5",
     "@stdlib/math-base-assert-is-nan": "^0.2.3",
     "@stdlib/math-base-special-cos": "^0.3.1",
     "@stdlib/math-base-special-floor": "^0.2.4",
@@ -68,6 +70,7 @@
     "@stdlib/number-float64-base-assert-is-almost-same-value": "^0.1.1",
     "@stdlib/random-array-discrete-uniform": "^0.2.2",
     "@stdlib/random-array-uniform": "^0.2.2",
+    "@stdlib/strided-base-reinterpret-complex": "^0.1.3",
     "@stdlib/string-format": "^0.2.3",
     "@stdlib/utils-keys": "^0.2.3",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
