@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-02)
+## Unreleased (2026-11-19)
 
 <section class="features">
 
@@ -33,6 +33,7 @@
 
 <details>
 
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`a9f2296`](https://github.com/stdlib-js/stdlib/commit/a9f2296e134fdcb3e3608b894113dc71db0473a2) - **feat:** add `fft/base/fftpack/generic/hc2c` [(#15704)](https://github.com/stdlib-js/stdlib/pull/15704) _(by Gunj Joshi, Athan Reines)_
 -   [`f0a7110`](https://github.com/stdlib-js/stdlib/commit/f0a711069422fe57562b2e7390e64f874758361e) - **docs:** update links in `fft/base/fftpack/generic/rfftf` [(#15397)](https://github.com/stdlib-js/stdlib/pull/15397) _(by Gunj Joshi)_
 -   [`c73f866`](https://github.com/stdlib-js/stdlib/commit/c73f86675a6df924935f57900761dd51424e8c72) - **docs:** use correct format specifier [(#14492)](https://github.com/stdlib-js/stdlib/pull/14492) _(by Gunj Joshi)_
@@ -59,10 +60,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gunj Joshi
+-   Philipp Burckhardt
 
 </section>
 
